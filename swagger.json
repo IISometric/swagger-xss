@@ -1,0 +1,10 @@
+{
+    "url": "https://raw.githubusercontent.com/IISometric/swagger-xss/main/swagger.yaml",
+    "urls": [{
+        "url": "https://raw.githubusercontent.com/IISometric/swagger-xss/main/swagger.yaml",
+        "name": "Foo"
+    },{
+        "url": "https://raw.githubusercontent.com/IISometric/swagger-xss/main/swagger.yaml",
+        "name": "Foo2"
+    }]
+}
